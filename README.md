@@ -16,7 +16,7 @@
 
 ### Homepage 使用示例
 
-https://github.com/1728643928/Homepage/wiki/Homepage-%E4%BD%BF%E7%94%A8%E7%A4%BA%E4%BE%8B
+[Wuki使用页](https://github.com/1728643928/Homepage/wiki/Homepage-%E4%BD%BF%E7%94%A8%E7%A4%BA%E4%BE%8B)
 
 ## Homepage 贡献指南
 
