@@ -1,6 +1,6 @@
 # Homepage
 
-> 通过ChatGPT3.5编写的GitHub主页
+> 通过ChatGPT3.5编写的GitHub主页（已停止更新，等待GPT4.0的免费使用）
 
 让GitHub主页看起来更有b格，更好看。
 
