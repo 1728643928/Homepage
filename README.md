@@ -8,7 +8,7 @@
 
 ## Homepage 使用指南
 
-只需要下载README.md然后用记事本打开，CTRL+C CTRL+V，就完事了。
+只需要下载Releases然后用记事本打开，CTRL+C CTRL+V，就完事了。
 
 ### Homepage 项目使用条件
 
